@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "project-starter",
+  "description": "Create a starter document from a bundled template and Microsoft Learn documentation.",
+  "version": "1.0.0"
+}
